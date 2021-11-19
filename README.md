@@ -20,6 +20,8 @@ Developed with Unreal Engine 4
   
   f - turns on the flashlight
   
+  p - opens the emote menu
+  
   shift - sprint
   
   esc - closes the game
